@@ -1,0 +1,2 @@
+# An Effective Crop Prediction Using Random Forest Algorithm
+The project focuses on predicting crop types using the Random Forest algorithm. It imports necessary libraries, analyzes dataset correlations, and separates features from the target label. Then, it trains various machine learning models such as Decision Tree, Naive Bayes, SVM, Logistic Regression, and Random Forest. Model accuracies are evaluated, and the best-performing model, Random Forest, is used for predictions. Finally, we compare accuracies and demonstrate crop prediction with sample data.
